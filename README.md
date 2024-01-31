@@ -32,7 +32,7 @@ I always make sure to always work on open source contribution whenever I get tim
 - [How to Call Web API in ASP.NET Core [.NET 7.0]](https://www.yogihosting.com/aspnet-core-consume-api/)
 - [ASP.NET Core Configurations – Program.cs Middleware AppSettings](https://www.yogihosting.com/aspnet-core-configurations/)
 - [Docker Series for ASP.NET Core Programmers](https://www.yogihosting.com/category/docker/)
-- [Kubernetes Series for ASP.NET Core Programmers](https://www.yogihosting.com/category/kubernetes/
+- [Kubernetes Series for ASP.NET Core Programmers](https://www.yogihosting.com/category/kubernetes/)
 - [Onion Architecture in ASP.NET Core with CQRS : Detailed & Illustrated](https://www.hosting.work/onion-architecture-aspnet-core-cqrs/)
 
 #### Trivia
