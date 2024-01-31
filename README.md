@@ -8,7 +8,7 @@
    <img src="https://img.shields.io/badge/-@yogyogi-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.yogihosting.com" alt="blog">
-   <img src="https://img.shields.io/badge/codewithmukesh.com-brightgreen?style=flat-square" />
+   <img src="https://img.shields.io/badge/yogihosting.com-brightgreen?style=flat-square" />
  </a>
 </p>
 
