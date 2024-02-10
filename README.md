@@ -45,7 +45,7 @@ I always make sure to always work on open source contribution whenever I get tim
 If you find it useful then you can support me. Thank you.
 
 <a href="https://www.buymeacoffee.com/YogYogi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="200"></a>
-<a href="https://www.paypal.com/paypalme/yogihostingi" target="_blank"><img src="paypal.png" alt="Paypal Me" width="200"></a>
+<a href="https://www.paypal.com/paypalme/yogihostingi" target="_blank"><img src="paypal.png" alt="Paypal Me" width="300"></a>
 ---
 
 <p align="center"> 
