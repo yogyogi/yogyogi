@@ -38,8 +38,14 @@ I always make sure to always work on open source contribution whenever I get tim
 #### Trivia
 - 📝 I blog here: http://www.yogihosting.com/
 - 📫 Follow me on Twitter [@yogihosting](https://twitter.com/yogihosting)
-- 🦸 Career Aim - to help beginners to learn .NET. 
+- 🦸 Career Aim - to help beginners to learn .NET.
 
+#### Support
+
+If you find it useful then you can support me. Thank you.
+
+<a href="https://www.buymeacoffee.com/YogYogi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="200"></a>
+<a href="https://www.paypal.com/paypalme/yogihostingi" target="_blank"><img src="paypal.png" alt="Paypal Me" width="200"></a>
 ---
 
 <p align="center"> 
