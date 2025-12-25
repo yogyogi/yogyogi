@@ -36,7 +36,7 @@ I always make sure to always work on open source contribution whenever I get tim
 - [Onion Architecture in ASP.NET Core with CQRS : Detailed & Illustrated](https://www.hosting.work/onion-architecture-aspnet-core-cqrs/)
 
 #### Trivia
-- 📝 I blog here: http://www.yogihosting.com/
+- 📝 I blog here: https://www.yogihosting.com/
 - 📫 Follow me on Twitter [@yogihosting](https://twitter.com/yogihosting)
 - 🦸 Career Aim - to help beginners to learn .NET.
 
